@@ -1,20 +1,7 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Top 30"  group-title="LOUVORES"
+#EXTINF:-1 tvg-logo="" type="video" group-title="gerson
 https://www.youtube.com/watch?v=P-WTgXhl56A
-#EXTINF:-1 tvg-id="" tvg-name="Top 31"  group-title="LOUVORES"
-https://www.youtube.com/watch?v=_dackMY860E
-#EXTINF:-1 tvg-id="" tvg-name="Top 32"  group-title="LOUVORES"
-https://youtube.com/watch?v=_dackMY860E
-#EXTINF:-1 tvg-id="" tvg-name="Top 33"  group-title="LOUVORES"
-https://youtube.com/_dackMY860E
-#EXTINF:-1 tvg-id="" tvg-name="Top 34"  group-title="LOUVORES"
-https://youtu.be/_dackMY860E?si=PxYIwZdLSSOvgVYz
-#EXTINF:-1 tvg-id="" tvg-name="Top 35"  group-title="LOUVORES
-https://youtube.com/watch?v=_dackMY860E
-#EXTINF:-1 tvg-logo="" type="video" group-title="LOUVORES",MUSICA CRISTIANA PARA SENTIR LA PRESENCIA DE DIOS - HERMOSAS ALABANZAS CRISTIANAS DE ADORACION 2023
-https://youtube.com/watch?v=o6QYcoleDG8&pp=ygVeTVVTSUNBIENSSVNUSUFOQSBQQVJBIFNFTlRJUiBMQSBQUkVTRU5DSUEgREUgRElPUyAtIEhFUk1PU0FTIEFMQUJBTlpBUyBDUklTVElBTkFTIERFIEFET1JBQ0lPTg%3D%3D
 
 #EXTINF:-1 tvg-logo="" type="video" group-title="LOUVORES",MÚSICA CRISTIANA PARA TRABAJAR ALEGRE Y MOTIVADO - ALABANZAS CRISTIANAS QUE TRAE FELICIDAD A TU VIDA
 https://youtube.com/watch?v=6FIKWlB6tdw&pp=ygUxTcOaU0lDQSBDUklTVElBTkEgUEFSQSBUUkFCQUpBUiBBTEVHUkUgWSBNT1RJVkFETw%3D%3D
